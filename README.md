@@ -21,6 +21,6 @@ This project focuses on conducting analytics within the supply chain domain to o
 
 ## Project Screenshots
 
-![Proj_2](https://github.com/Tazibava/Inventory-Analytics/assets/166983934/2eedbefe-eff8-4705-90c3-f16b9d981c93)
+![proj_2](https://github.com/Tazibava/Inventory-Analytics/assets/166983934/726d4464-860e-47e7-a4c6-4e9155692561)
 
 
