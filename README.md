@@ -21,7 +21,6 @@ This project focuses on conducting analytics within the supply chain domain to o
 
 ## Project Screenshots
 
-![WhatsApp Image 2024-05-04 at 2 16 49 PM](https://github.com/Tazibava/ABC-Analysis/assets/166983934/7b0bcaa4-76a8-47c6-8841-856f1caf7297)
-
+![Proj_2](https://github.com/Tazibava/Inventory-Analytics/assets/166983934/2eedbefe-eff8-4705-90c3-f16b9d981c93)
 
 
